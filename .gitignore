@@ -1,0 +1,13 @@
+.idea/
+
+### spring boot ###
+# Maven
+target/
+
+# Maven Wrapper
+.mvn
+springboot/HELP.md
+springboot/mvnw
+springboot/mvnw.cmd
+myJavaStudy.iml
+out/
