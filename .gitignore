@@ -4,6 +4,9 @@
 # Maven
 target/
 
+
+
+
 # Maven Wrapper
 .mvn
 springboot/HELP.md
@@ -11,9 +14,11 @@ springboot/mvnw
 springboot/mvnw.cmd
 myJavaStudy.iml
 
-java-practice/java-practice.iml
-java-practice/README.md
-java-practice/out/
+out
+java-practice.iml
+
+
+
 
 
 
